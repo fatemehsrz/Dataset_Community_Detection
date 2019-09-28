@@ -2,6 +2,13 @@
 Labeled datasets from https://linqs.soe.ucsc.edu/data <br/>
 Statistices here: https://www.ijcai.org/Proceedings/15/Papers/299.pdf
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+ <br/>
 
 | Dataset | Nodes | Edges | labels|features|
 | ---         |     -----      |          ------ |||
